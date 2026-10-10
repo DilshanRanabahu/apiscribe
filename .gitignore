@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# apiscribe: HAR recordings contain tokens, cookies and personal data. Never commit them.
+*.har
+*.har.gz
